@@ -1,5 +1,5 @@
-# fetch_xhs_cookie
- 基于Python实现的通过爬虫方式获取小红书授权登录的cookie的代码
+# fetch_shipiinhao_cookie
+ 基于Python实现的通过爬虫方式获取视频号授权登录的cookie的代码
 
 # donate
 
