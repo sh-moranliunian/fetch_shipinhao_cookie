@@ -1,0 +1,15 @@
+requests
+fake_useragent
+PyExecJS
+pymongo
+matplotlib
+elasticsearch
+minio
+easyocr
+qrcode
+ffmpeg-python
+pymediainfo
+pandas
+cryptography
+jieba
+beautifulsoup4
